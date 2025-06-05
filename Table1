@@ -1,0 +1,76 @@
+<!DOCTYPE html> <html lang="en-US">
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+table {
+  font-family: arial
+}
+</style>
+</head>
+
+<body style="background-color:AliceBlue;">
+
+    <style>
+        table {
+          border-collapse: collapse;
+          width: 100%;
+        }
+        
+        th, td {
+          text-align: left;
+          padding: 8px;
+        }
+        
+        tr:nth-child(even){background-color:White}
+        tr:nth-child(odd){background-color:White}
+        th {
+          background-color:DarkSeaGreen;
+          color:Black;
+        }
+        
+        </style>
+
+</body>
+</html>
+
+<table>
+    <table border="1">
+    <tr>
+    <th scope="col">Destination
+    </th>
+    <th scope="col">Distance</th>
+    <th scope="col">Highlights</th>
+</tr>
+<tr>
+</th>
+    <td>Wisp Resort</td>
+    <td>3 hours</td>
+    <td>Great rental options, snow tubing, and higher snowfall than surrounding areas</td>
+</tr>
+<tr>
+    <td>Liberty Resort</td>
+    <td>1.5 hours</td>
+    <td>Small resort, but the closest to Northern Virginia</td>
+</tr>
+<tr>
+    <td>Cannon Valley</td>
+    <td>3 hours</td>
+    <td>Snow tubing, public land makes it an affordable option</td>
+</tr>
+<tr>
+    <td>Bryce Resort</td>
+    <td>1.5 hours</td>
+    <td>Great beginner slope, excellent snow-making, nice facilities</td>
+</tr>
+<tr>
+    <td>Timberline Resort</td>
+    <td>3 hours</td>
+    <td>Excellent snow-making, family run resort that was recently renovated</td>
+</tr>
+<tr>
+    <td>Snowshoe</td>
+    <td>4 hours</td>
+    <td>Largest of the local resorts, it has an outdoor village with shopping, restaurants, and other entertainment</td>
+</tr>
+</table>
